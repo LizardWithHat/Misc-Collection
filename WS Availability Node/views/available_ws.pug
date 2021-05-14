@@ -1,0 +1,31 @@
+extends layout
+
+mixin computer(name, softwares)
+  div(class="container alert alert-info")
+    div(class="row")
+      h3(class="col-sm")= name
+      button(id='rdp_'+name class="rdpbutton btn btn-outline-primary" type="button") Verbinden
+      button(id='wol_'+name class="wolbutton btn btn-outline-primary" type="button") Aufwecken
+      button(id='refresh_'+name class="refreshbutton btn btn-outline-primary" type="button") Aktualisieren
+    p verfügbare Software
+    ul(class="list-group list-group-horizontal")
+      each software in softwares
+        li(class="list-group-item")= software
+    div(id="users_"+name class="container")  
+  
+block content
+  div(class="container")
+    img(class="img-fluid", src=("/img/logos/Logo.jpg"), style="max-width:40%")
+  div(class="container")
+    h1= title
+    p #{title}
+    p called at #{time}
+
+  each soft, comp in computers
+    +computer(comp, soft)
+  
+  script(src="/js/jquery-3.4.1.slim.min.js")
+  script(src="/js/bootstrap.bundle.min.js")
+  script(src="/js/rdp_script.js")
+  script(src="/js/wol_script.js")
+  script(src="/js/refresh_script.js")

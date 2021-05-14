@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" type="image/x-icon" href="/static/logos/favicon.ico">
+		<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<title>Available Workstations</title>
+		<style>
+			table, td, th{
+				font-size: 90%;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container"><img src="/static/logos/Logo.jpg" class="img-fluid" style="max-width:40%"></div>
+		<div class="container">
+			<h1>Available Workstations</h1>
+			<p id="datetime">called at </p>
+		<p> Query multiple computers by seperating them below with commata.</p>
+		<form action="/available_ws_admin" target="_parent" method="GET">
+			<label for="computer">Query computer:<label>
+			<input type="text" id="computer" name="computer" placeholder="Computernamen hier">
+			<input type="submit" value="Los">
+		</form>
+		</div>
+		{{ text|safe }}
+		<script src="/static/bootstrap/js/jquery-3.4.1.slim.min.js"></script>
+		<script src="/static/bootstrap/js/bootstrap.bundle.min.js"></script>
+	</body>
+	<script>
+		var dt = new Date();
+		document.getElementById("datetime").innerHTML += dt.toLocaleString();
+	</script>
+	<script>
+		var buttons = document.getElementsByClassName('rdpbutton');
+		for (var i = 0; i < buttons.length; i++) {
+			var cur_button = buttons[i]
+			cur_button.addEventListener('click', generate_rdp_file, false)
+		}
+		function generate_rdp_file(){
+			var element = document.createElement('a');
+			computername = this.getAttribute('id').slice(4)
+			element.setAttribute('href', 'data:application/x-rdp;charset=utf-8,' + encodeURIComponent("full address:s:"+computername+"\ngatewaycredentialssource:i:0"));
+			element.setAttribute('download', "connection.rdp");
+			element.style.display = 'none';
+			document.body.appendChild(element);
+			element.click();
+			document.body.removeChild(element);
+		}
+	</script>
+</html>

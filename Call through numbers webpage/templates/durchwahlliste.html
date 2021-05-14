@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" type="image/x-icon" href="/static/logos/favicon.ico">
+		<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<title>Call-through numbers</title>
+		<style>
+			table, td, th{
+				font-size: 90%;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container"><img src="/static/logos/Logo.jpg" class="img-fluid" style="max-width:40%"></div>
+		<div class="container">
+			<h1>Durchwahlliste</h1>
+		<p>Search via CTRL+F</p>
+		</div>
+		<div class="container">
+			{{ text|safe }}
+		</div>
+		<script src="/static/bootstrap/js/jquery-3.4.1.slim.min.js"></script>
+		<script src="/static/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<script>
+			<!-- tbody 0 are table headers -->
+			var rows = document.getElementsByTagName("tbody")[1].getElementsByTagName("tr")
+			for(var row in rows) {
+				var numberCell = rows[row].getElementsByTagName("td")[4]
+				var number = numberCell.innerHTML.trim()
+				if(number === ""){
+					continue;
+				}
+				numberCell.innerHTML = "<button type=\"button\" class=\"btn btn-outline-primary btn-sm\" onclick=\"this.parentElement.getElementsByTagName('div')[0].style.display='block';\" style=\"float:left\">Anzeigen</button><div style=\"display: none; overflow:hidden; margin:auto; text-align:center\">" + number + "</div>"
+			}	
+		</script>
+	</body>
+</html>

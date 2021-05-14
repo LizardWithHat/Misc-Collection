@@ -1,0 +1,4 @@
+This script will run a flask webserver to query and display a specified set of computers about their logged in users. The webpage displays the status of the computers and can additionally display a staticly set list of software for the set of computers, as well as generate RDP files to connect to the computers for ease of access. 
+
+The Script uses the pip packages tabulate and flask. Additionally, to make the webpage look nice and work offline, Twitters Bootstrap project has been used for the webpages.
+The files are missing here but can be downloaded from the projects website and are expected to be in "static/bootstrap".

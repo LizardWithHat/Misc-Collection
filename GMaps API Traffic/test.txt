@@ -1,0 +1,387 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 51.5081412,
+                "lng": 7.5308414
+            },
+            "southwest": {
+                "lat": 51.1899442,
+                "lng": 6.7558134
+            }
+        },
+        "copyrights": "Kartendaten \u00a9 2019 GeoBasis-DE/BKG (\u00a92009)",
+        "legs": [
+            {
+                "distance": {
+                    "text": "81,2 km",
+                    "value": 81185
+                },
+                "duration": {
+                    "text": "1 Stunde, 1 Minute",
+                    "value": 3672
+                },
+                "duration_in_traffic": {
+                    "text": "1 Stunde, 13 Minuten",
+                    "value": 4378
+                },
+                "end_address": "Ehrenhof 1, 40479 D\u00fcsseldorf, Deutschland",
+                "end_location": {
+                    "lat": 51.232022,
+                    "lng": 6.771751999999999
+                },
+                "start_address": "Gutenbergstra\u00dfe 36, 44139 Dortmund, Deutschland",
+                "start_location": {
+                    "lat": 51.5081412,
+                    "lng": 7.4651864
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "0,2 km",
+                            "value": 192
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 39
+                        },
+                        "end_location": {
+                            "lat": 51.5078596,
+                            "lng": 7.467917
+                        },
+                        "html_instructions": "Auf <b>Gutenbergstra\u00dfe</b> nach <b>Osten</b> Richtung <b>Ruhrallee</b>/<wbr/><b>B54</b> starten",
+                        "polyline": {
+                            "points": "{dkyHm`ql@J{@Hq@DW@O@U?A?CN}EBq@?W?C@a@@a@"
+                        },
+                        "start_location": {
+                            "lat": 51.5081412,
+                            "lng": 7.4651864
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "7,1 km",
+                            "value": 7146
+                        },
+                        "duration": {
+                            "text": "6 Minuten",
+                            "value": 372
+                        },
+                        "end_location": {
+                            "lat": 51.4483077,
+                            "lng": 7.4864755
+                        },
+                        "html_instructions": "<b>Rechts</b> abbiegen auf <b>Ruhrallee</b>/<wbr/><b>B54</b><div style=\"font-size:0.9em\">Weiter auf B54</div>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "cckyHoqql@PHXHv@PP@L@L@TARAXCPCn@S~@YBA^OLEDAFAF?FAHAJ?PBD?FBPDNHJDHHNLVTv@p@b@\\h@b@XRLJPJJFJDHBLDPBRBH?L@HA\\@PE|Dw@ZGNEjAUZCLCl@Kn@OXGHAz@W|@Wh@QLG\\K`@M\\I`@I^GTC`@Ef@ED?b@E^EvD]r@C^?Z?\\@T@ZBn@Fd@JPBd@JVHF@|@ZbBh@t@Vr@RL@^Fd@Fd@Fh@BXBn@@|@?v@@x@?Z?X?V?r@Bj@B\\@F@X@v@BNBP@`BLjBNZBdAFZB^@`@@^?^?PAD?NAVAJARC`@IJC\\Id@M^O`@OHEXMd@Y`@Yv@o@NO\\]n@u@\\e@T_@b@s@t@wAl@sAf@iA@Gz@}Bt@wBRq@^mAZmAb@_B`@_Bl@}Bh@qBBMZmAl@wB^uA`@kAL]FQL[DMTe@Tg@Tc@Vc@@CT_@BGRYRYT[Za@^c@`AcATQRSVQTQVO@At@c@h@Wv@[fCs@`AYh@Mb@Kp@Id@Gf@El@?fEHxAHpCJF@bBHxAHzBJb@Bb@@f@BbADJ?r@@dACtBI|@I~@MNCb@GNCnBc@dD}@nA[zDcAb@Ob@ObDmAnAg@pAg@vAi@`A]ZKXIVIvA]|@S~@On@It@IzAIb@?x@?~ADh@B^Bb@Dl@FpANvGbAPBzARt@JjAHl@Bj@@h@?t@Ap@C`AKB?d@Id@IBA^Kd@Kb@OZKXKXKXOXMXOXOXO`Ak@`DwBbBkAvD_Cp@[x@a@t@YNEzAc@t@Q~@Oj@Ij@E\\E"
+                        },
+                        "start_location": {
+                            "lat": 51.5078596,
+                            "lng": 7.467917
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "4,3 km",
+                            "value": 4347
+                        },
+                        "duration": {
+                            "text": "3 Minuten",
+                            "value": 197
+                        },
+                        "end_location": {
+                            "lat": 51.4353515,
+                            "lng": 7.5247981
+                        },
+                        "html_instructions": "Bei Ausfahrt <b>A45</b> Richtung <b>Frankfurt a.M.</b>/<wbr/><b>K\u00f6ln</b>/<wbr/><b>Hagen</b> fahren",
+                        "maneuver": "ramp-right",
+                        "polyline": {
+                            "points": "}n_yHoeul@XHhAB\\@`BPbBXb@BXDVDl@Lp@N|@Vn@PVJb@Lz@\\rAh@`@RpAr@pAr@lBjARZPRLPNZFV@BFZB^@n@?dA@hF?F?tBAd@?DC\\Ib@IVKRMNIFEBOFO@I?IAKECAKGMMMWKc@EQISCmBIyICeC?u@AqB?g@A{@?i@?g@?g@?}B@iDBaE@_B@iABcBDgD@y@BuBDgD?CKs@JmDBw@JyCF{AHoB@a@L{CH}APiDPeDRyD^cGNyB\\mEZ{D^wEFk@BU?A@SRsBBa@LgAPkBBQLwAd@iEPyAZuC\\uCHq@dAgIPmAZ{BXoBF_@Hi@BOBQTqALw@Fa@VuAH[PaAl@sCZqALg@?CT{@FW@EJ]T}@\\oAJi@d@_BRo@t@}BFQf@qAh@qAx@uBXq@FOh@qA@A@Cn@{Ap@}At@eB\\w@z@wBN]b@iA"
+                        },
+                        "start_location": {
+                            "lat": 51.4483077,
+                            "lng": 7.4864755
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "23,1 km",
+                            "value": 23124
+                        },
+                        "duration": {
+                            "text": "15 Minuten",
+                            "value": 926
+                        },
+                        "end_location": {
+                            "lat": 51.3161287,
+                            "lng": 7.2768817
+                        },
+                        "html_instructions": "Am Autobahnkreuz <b>9-Westhofener Kreuz</b> <b>rechts</b> halten und den Schildern <b>A1</b> in Richtung <b>K\u00f6ln</b>/<wbr/><b>Wuppertal</b> folgen",
+                        "maneuver": "ramp-right",
+                        "polyline": {
+                            "points": "}}|xH_u|l@Z[BEN]N[Ti@\\aA`@eATk@FOJ_@d@}@Z{@FMFORc@Xm@N[PYJMJORUJIRQHGHGLGJENGBAVKLE^OLGLITSHIJIFKNUFMFKFOJWDMFQHYFOPi@Rm@HQHOT_@^QPCTA^DJD^P~@r@TTVVfB|Ax@z@NLHHl@f@\\f@f@v@PZR\\PZNXBBHPJRp@zAf@pAl@|AHTLf@BFDNFPlAhEFTpAzFJ\\Rp@Pp@d@~ARn@Rn@BFVp@Xr@LXnAxCVf@R`@R`@nAvB\\f@PXHH@BlBjCr@`AzApBt@~@@@Zb@vAjBh@r@xBrC|@lAxBpCDFTZTZDFDDPTDFf@n@NRx@bAh@p@NRt@~@BDTXFFd@n@lAdBvAvBZb@JPLRDHf@v@FJr@jAXh@r@jAZj@R\\\\n@PZ^p@^r@l@lAVh@P\\\\t@Rd@h@fAXp@N\\FJ`@~@Xn@P`@Tj@DHN\\Vn@Pb@HRHRRh@\\|@Tl@FPZz@Zx@L\\BHXv@Xz@JZpA`EbAhDp@|BV|@ZfAn@`Cr@tC^zAT`Ad@pBd@zBLn@@@?@Ln@R`AXvAXzAPbAb@`CH^?Br@dEZvBj@zDL~@l@nE~@jHb@`DJ|@?B?BDVJt@Ff@Ff@NjAN`AL`An@bF@Lv@lG`@xCJv@Jv@t@bGr@lFl@|ETfBVnBd@tDPnAHt@^rCRzAj@xDZfBXfBXpAh@fCLf@\\vAt@zC`@vA\\rAX`Aj@rBN^`@rAn@nBVx@Rn@\\bAdAdDj@lB^pA\\pAZrAf@nBVlAf@fCP|@DV`@`Cd@vCn@nEb@bD`@dDHl@ThBLv@Jt@VlB?DJn@Fd@ZvBj@dDJn@@DX|ANv@Pv@Lh@R`ANj@Lf@f@hBRr@BFb@tAd@tAd@nARj@j@tAXn@JRTf@Zn@Tf@\\r@l@dA?@n@dA\\j@n@`AX`@X^b@l@d@j@z@bAh@l@f@f@d@d@ZVDFVR?@PNPNVRl@b@|@n@VR^Tb@Vj@Z|Av@~@b@z@^zAl@\\LnFvB`@Pd@PdCbA`@Nj@TrChAdE~AB@zChAtBv@lAd@n@Vz@Z\\NxClAd@Vf@Xx@h@d@\\zAvAXVRVZ^X^X\\b@n@d@v@T`@T`@Xf@LZXj@Vl@P`@N^L\\JXd@vA^jAX|@^pAv@rCDLd@`Bf@jBj@pBBHz@|Cn@tBV`AZhAf@fBr@dCd@dBDNDPn@vB^rAr@fC|@`Dt@lC|ApFf@hBp@~BXhAHTPp@HZXdARn@f@fBt@lC@F@@BH@FL^dAnDx@pCf@`BDJ`@rAJXrA`EhAdDrBvFBFDH@BBFDNv@pBfBnE\\~@Tl@FNb@hATl@Tj@j@zA?@v@nBHVj@zABDPf@Tl@`AfC`AjCRj@Tl@Tj@|AdEfBbFvApEbCrIXfANr@Ld@BJNp@r@xCNp@@DLl@Np@Pr@@FLj@Nr@R~@Jd@Nr@^fBn@xCl@zCNr@Lh@n@~Ch@hCnApGNt@TjAFZLt@RhAp@|D|A|Lh@jEBZv@lIRxBp@fI^bE@J^lDRdBBTD`@Fd@NdANfABPBPHb@BPHb@Lt@DTLl@BLJd@FTRz@DPPr@Rr@Rp@Ld@~@lCVn@\\z@P`@Tf@@@P^Td@FJNZXf@PXZj@X`@R\\Zd@RV^d@V\\X^X\\RVVZZ\\`@d@X\\ZZTX\\`@`@f@RTPRFHHHLNX^jA`BV^V`@PX\\j@Vb@Tb@Td@Td@Rb@Th@Rd@Rf@Rh@Rj@Rh@Nh@Rj@Lf@Pl@Nn@Nh@Nl@Ln@Lj@Ll@Lp@Hj@Jn@Jl@Jp@Hp@Hr@Hj@Fp@Hn@Fp@Hr@Dn@PdBFp@LvADj@J`ANbBHp@Fn@BXBTFd@VnBHl@?@Jn@Jl@Hf@\\dBLp@HZR~@Nn@p@~BNl@Ph@Pf@Rh@d@nAf@rA`@bAn@~Aj@vAdAdCf@lAf@nAbBdEl@zAdAjCf@lARj@pA~CRf@Rb@Rd@Th@d@nATh@f@nAJTn@~A|@vB@Fx@rBh@nAz@vBdBhEHRHPRh@Tf@Rf@P`@@BpA`DRf@HTHRLXDLRf@Th@Rd@Rf@Rh@Rd@DLLXTj@P`@Vl@b@hABDRf@`AbCVj@r@fBf@nARf@@@Rf@dBhEJVFLN^BFPb@@DRd@@@Pf@Th@Rd@Rh@Rd@Rh@Tf@Rf@Rf@Rf@Th@Rf@Rf@Rf@Rf@Tf@f@pARd@Tf@h@pARd@Rb@Tf@Vf@JV\\p@Vf@Vb@Tb@JRJRT`@T`@Xd@T^X`@@BT^Xb@X`@PXj@x@B@^f@Z`@V\\V\\Z`@VZTX^d@JLNPX^VZX^VZV\\BDX\\X^X`@T\\Xb@V^PVFJT^Vb@Vb@Vd@Tb@Vd@Tb@Vf@Th@b@|@^z@`@~@\\v@`@hAdAzCf@~Ar@`Cp@dCLf@Nr@HZVhAVlAb@`CDRb@dCXnBb@tDPtA@Jd@pE^hEFt@Ft@f@vGLvAZvD@FXvCVzBD`@l@jFJz@Hn@b@~C~@vGt@rEDRd@lCrA`HhAnFfAxENn@Np@Pt@|A~FHZdArDRr@jAtDjAlDr@rBhBbFxBrF?@Th@P^rCpGdA`CbAxB\\t@^t@BHbBjD"
+                        },
+                        "start_location": {
+                            "lat": 51.4353515,
+                            "lng": 7.5247981
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0,5 km",
+                            "value": 547
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 43
+                        },
+                        "end_location": {
+                            "lat": 51.31393449999999,
+                            "lng": 7.270154299999999
+                        },
+                        "html_instructions": "Bei Ausfahrt <b>92-Wuppertal-Nord</b> auf <b>Wuppertal</b> in Richtung <b>A46</b>/<wbr/><b>D\u00fcsseldorf</b>/<wbr/><b>Bochum</b>/<wbr/><b>A43</b> fahren",
+                        "maneuver": "ramp-right",
+                        "polyline": {
+                            "points": "ytexHoglk@D^?DBJJZJZJj@@BDVD\\D`@@X?ZA`C?H?p@@X@VBLBPDTFTRj@HPb@x@tCfGn@tAXr@FNDNBJJb@FZD^DXFl@"
+                        },
+                        "start_location": {
+                            "lat": 51.3161287,
+                            "lng": 7.2768817
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0,1 km",
+                            "value": 135
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 12
+                        },
+                        "end_location": {
+                            "lat": 51.3142912,
+                            "lng": 7.268294
+                        },
+                        "html_instructions": "Auf <b>A46</b> fahren",
+                        "maneuver": "merge",
+                        "polyline": {
+                            "points": "agexHm}jk@OhAE\\E^UnBMvAGb@"
+                        },
+                        "start_location": {
+                            "lat": 51.31393449999999,
+                            "lng": 7.270154299999999
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "39,1 km",
+                            "value": 39111
+                        },
+                        "duration": {
+                            "text": "26 Minuten",
+                            "value": 1546
+                        },
+                        "end_location": {
+                            "lat": 51.1920428,
+                            "lng": 6.785823199999999
+                        },
+                        "html_instructions": "<b>Links</b> halten, auf <b>A46</b> bleiben und der Beschilderung f\u00fcr <b>D\u00fcsseldorf</b>/<wbr/><b>Wuppertal</b> folgen",
+                        "maneuver": "keep-left",
+                        "polyline": {
+                            "points": "iiexHyqjk@MzCCj@Av@AjABbA@d@Bt@?T@XFlADb@?FDl@@LJdAFz@NvA?BP~AT|ALz@PbAVpAp@|Db@dBlBzHb@|BX|ANx@RpAJn@Jp@Jl@Jx@Hd@NbANnAHt@LdADb@BPLdAPdBRfBlApLPdBFn@NnAR|BBT`@vDN|APlBHn@H|@R|AR|A^nCT|A^jC^hCFd@BLJp@@HFVN~@f@vCXvAPx@Tz@BLJb@Lf@BHPn@Rn@^tARn@`@pATr@Rh@Ph@BFRp@HTTn@`@nATp@t@tBt@~B^lABFb@~A\\tALb@\\|AZpANv@Px@Ln@Jn@VzA?@Hh@Fb@NbAJr@Fb@\\nCHj@BLPtA@FBXNbATxALp@V~A\\~ABHXlANl@Rp@Lf@Pj@Tr@`@fATn@\\z@P^LXj@jAbAhBZh@h@x@\\b@X^VZTX\\b@^b@XXRRTRXT\\V\\VBB`@Vh@\\v@f@j@^t@d@d@Vj@b@XR^\\Z\\XZ`AnALT`@p@Vd@LVBDLXZv@Vr@d@vANj@Np@Nn@TrAD`@N`AR`BR~A@JPrAJn@Jr@Jn@P`AJf@@@Jf@Nj@Nh@Pj@Pf@Nd@N^^x@R`@FLNVXd@V^X`@FFJLFFZ\\\\\\XX\\XZV\\T\\VhAr@`@Tb@Xb@Vr@d@r@h@VRd@`@BBp@r@p@x@HJb@j@^l@NXVb@j@hAL\\Th@Tp@BDNd@Nf@Tv@^zARbAF\\H\\@LDZT`BXnBj@`ERtA?D~@~GJr@@Lj@dE@LLx@@JLl@Lv@Ln@Nn@H\\H^HVRt@Nh@Nh@Tn@b@lAXr@b@bAP\\HNb@x@\\l@p@fAl@|@\\d@f@p@b@l@j@v@z@nANRn@|@l@`AXd@DDh@`AR^`@x@JP@BBFVn@Rf@@FRh@HTBFHVDLt@zBDLPn@h@jBFRFP?@DNPh@hBpG^pAnAlEDJBLJ\\J\\pBhHf@fBTr@Rt@Pl@@DhDtLVz@fDbL@@b@tAn@lBDNv@rB|@vB@Br@xA~@hBn@hANVT^DHd@r@^j@l@x@`AvAb@n@JNJPRXLT\\h@\\j@NZ^r@Th@P\\N^Xz@Pb@Pj@L`@Rr@Pr@XrATjABJDP?BDNBNDT~AbLL`A\\jC^|Df@jFHt@^lD\\nDt@lH@JPfBHv@TtBf@nFzAnNb@bEHt@Jv@Fh@LnAJx@F\\D`@BNNdAD^BLF`@Fj@~@dGDRJr@F\\dBnJjE~URnADR?FDT@B@JF`@?@ZpBLbATfBHp@LbANrATlCHr@XdDBZFj@`@pFBT@P@B?HFr@JfADh@TtCPbBJx@Hj@Jp@?@Lp@Jr@RfATdAHd@Pt@Rt@\\nARr@ZdATr@b@tANd@\\rAPp@Lb@Ll@BLHb@Jj@Jn@Fb@D^Db@BTBX@LBPB`@B`@D~@B^B~@BvA@p@Bh@?P?R@`@@p@Bf@Bz@Bh@JdBLbBJ|@NvAT|AVvADTDTNn@ZrAPl@BH\\fAPj@Vn@Pb@JT`@x@`@r@\\l@RVPRV\\LLFH`@^RPXTVRVRNHZRnAp@\\Pd@VVLz@`@\\Pb@VXP`@Tb@XRL\\T^V\\Z^X`@^@@LNPPNRNPNR^f@^h@DFb@l@p@dADFXb@h@z@Zd@DHRZV`@HJJNX^X`@X\\XZ@BZXXV\\X\\V^THFPHt@b@lAj@PHTJTLn@X~Av@bAd@z@b@`@RVLHFn@`@v@p@h@h@JJDF`@h@`@l@Xd@Vf@Vj@`@`ARl@H\\FNJ^DPTfANr@N`AXfBBVA^x@zETfAJb@Jb@HZHTLb@Vp@^~@Vl@Zl@LVn@nAXb@Zf@jAxA\\b@RVt@z@t@x@rAvAr@p@NNHHZX\\X`@Z@@v@h@\\VJFPLtBnAvAv@dAb@xAb@f@Jn@J^FF@`AFpBJlCH^?xBB~GH~@ChCBlA@`A?d@@f@@p@BRBRBH@b@DVBF@RDNB\\F`@J\\J\\LhAb@^TVPRNXTh@h@LNRRPTd@n@T\\V\\p@hAXd@r@dATZPVV\\X\\JLLLJJJJDDLLHDDFFDLJLHNJLHNH\\R\\Pb@Pv@^LFRJDD\\P\\R\\RTNLHRPNLLJLLVTX\\X^FFHLJLFJBBNRbAvB\\r@Vn@Rd@N`@Pl@Rr@ZhA`@jBLz@NhAHp@Fn@H~@Dn@@FDj@HrADz@Bd@@`@H~AFvAF~ABb@Dv@Fv@Db@Db@LnA@NFl@Hf@Ff@Jl@Jh@Jj@Nl@Jd@Jb@JX^fA@DRj@P`@Rd@Tb@NVLXFHT`@V^V`@V^V^p@|@h@v@^h@^j@RX@B@@T^Zl@T`@JRJTJTJTJTHTFPBDHTHVJVDPL`@Nl@Lf@\\pAF\\FZHf@L~@Ff@F`@Dd@BP@RRpBRhCJ|Ab@dGV|CJbAJx@Ht@PpADPHd@BNF^Lh@Ll@`@tAPj@`@nARh@Zt@\\v@l@hAV`@Vb@RX@@JNRV?@NPJLPPJLPP\\XZXZXb@\\n@b@d@ZvCjBHDb@Xx@j@z@l@ZV\\VFFVTXVPN`@`@z@|@f@l@d@l@p@|@`@n@JN`@n@NZR\\Xf@Vh@\\r@\\v@\\x@Vn@N^Rh@f@pAX|@X~@b@zARt@Rr@Nr@fAtEV~@T`A`CrJDRn@pCz@tDx@tD`@`CRjAp@vENhANnAJ`AHlAFt@Dv@Fz@Bp@Bf@?JBf@@n@Bl@@x@?v@@xA?vD@`C?n@?l@?jI?F@tI?Z?bA?bA@rI?dA@hB@~@@b@?`@BnABnAF`BHvBL~BFfAJtAHfAH~@BZDZFv@@HNpABPBVZ~BJp@Jl@NfAl@tDnCfP|AdJJj@Hj@x@zEr@dEXdB~AhJHb@V|A^hCbA|GrAzIj@xDDV|AjKHn@Hn@@Bl@rEJ|@J|@RpBHfAZxDNnBDn@F`APzDJnBV|GDv@DpAx@nRDx@RvEXbHNjDDx@nAxZ^dJRpEDv@b@lKLrCPnEL~BBl@NbEf@hLTdFLjCLzB@Nt@zPLlCV|FDt@Bt@p@vPHpBFbBr@xPFtBp@dMd@dH\\dE?HHv@Fv@VtC@LVxCFp@\\hDDZBZ^lDHl@Ht@TlBDd@^pC|@fHlAvI^vC^nCt@jF@Lp@jF^xC`@zD\\jDXnDFr@RvCVlEN|CTlHP`GLlEPpHXfLTpHN`GFtCNvFPbGJlEDdBRrHP`G?BJnEN~FHnCX`LBjAXhK^`ONvFLzEHxCBbAVdJPxGd@bRh@~RHbD?LFpBNlFFrC@LBx@`@fPJpCBz@Bx@ZnPBxBBbA@|I@~ABnC@bCBtK?fFAjECdEA`AGzHIdLOfN?`@?TMjLGdIAv@KzGAbAArBCfBApB?HAlD?f@?x@?vB@dDBpB?d@BpA@~@@j@BtAFjBHlDHlDTpIBl@@~@@P@n@@fA@r@@F?b@@z@@jAAzA?zAAv@ArA?v@?ZChACnBG~CE`BCdBEdCEnBAbAC|AA`B?r@?T?j@At@?r@?ZA~A?~B?rA?xB?x@?t@?h@?p@?l@?h@?H?v@?l@?n@Ab@?|@?j@AV?`@?h@Ab@A|@At@Aj@AfACx@Aj@Cp@Cp@An@Cd@Cz@ADAh@En@A^K`B_@nC?DE^Gn@Gn@CNMdACRCVMbAGd@AFIj@Y|Ae@nCADCLAHQdAKj@ADEZMp@m@bDI^SpAAJQlACLKz@CJIn@CXE^CL?BKbAALANIt@Ej@I`AGz@Ex@Er@Cb@GxA?BAPAVADCj@?JCf@?@Ct@KvCG|AALGnBIfCGpBEjACv@AJCx@EdBCv@Cn@E|ACt@EtAOfF?HCl@?HC~@Cp@I|CG`BErBGfCItCCnAE|CChBAdA?PAT?b@AD?Z?F?|@AN?N@v@?R?x@@f@?R@lA?Z@r@@`@@R@PH|B?H@F?JFdAD~@Fx@FhAFv@@N@LH|@Hz@PjBFj@@JRlBD^?@JjATrB@L@LFl@Hx@NrAJdA@HD^BRHbAPfBHz@PbBFt@@LBTn@~K"
+                        },
+                        "start_location": {
+                            "lat": 51.3142912,
+                            "lng": 7.268294
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0,4 km",
+                            "value": 440
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 23
+                        },
+                        "end_location": {
+                            "lat": 51.1923612,
+                            "lng": 6.7796371
+                        },
+                        "html_instructions": "Bei Ausfahrt <b>23-D\u00fcsseldorf-Bilk</b> Richtung <b>D\u00fcsseldorf-Bilk</b>/<wbr/><b>D\u00fcsseldorf-Hafen</b> fahren",
+                        "maneuver": "ramp-right",
+                        "polyline": {
+                            "points": "gmmwHkjlh@Ip@CTC\\ATE\\Eh@AJI`AGj@C`@CZCl@?p@?H?P@L?P@P@^B`@B^BXB\\BZ@JB`@@f@@V?h@?b@?^A@?DAXAV?FC`@ALCVETEb@EXATAP@P"
+                        },
+                        "start_location": {
+                            "lat": 51.1920428,
+                            "lng": 6.785823199999999
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1,0 km",
+                            "value": 976
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 68
+                        },
+                        "end_location": {
+                            "lat": 51.2001705,
+                            "lng": 6.775985500000001
+                        },
+                        "html_instructions": "Auf <b>M\u00fcnchener Str.</b> fahren",
+                        "maneuver": "merge",
+                        "polyline": {
+                            "points": "gomwHwckh@Ml@Mf@Mb@GLQj@IXCDKXIRQ^MVOXKREFIPOTSZQTOR_@b@QRIFEFGDIDUTQNEBWPQL_@Na@Ri@To@V_@La@L_@H_B^uAZ]FQBG@ODUBWBO@M@e@@Y?YAMAK?IASAMCIAa@G_AU]KMEOEYIKCUIg@IEAa@Co@Gg@C"
+                        },
+                        "start_location": {
+                            "lat": 51.1923612,
+                            "lng": 6.7796371
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "54 m",
+                            "value": 54
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 15
+                        },
+                        "end_location": {
+                            "lat": 51.2005676,
+                            "lng": 6.775595
+                        },
+                        "html_instructions": "Leicht <b>links</b> abbiegen, um auf <b>M\u00fcnchener Str.</b> zu bleiben",
+                        "maneuver": "turn-slight-left",
+                        "polyline": {
+                            "points": "a`owH}ljh@YNMFGBGFGDCDCFAFEL"
+                        },
+                        "start_location": {
+                            "lat": 51.2001705,
+                            "lng": 6.775985500000001
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "1,4 km",
+                            "value": 1398
+                        },
+                        "duration": {
+                            "text": "2 Minuten",
+                            "value": 147
+                        },
+                        "end_location": {
+                            "lat": 51.20097879999999,
+                            "lng": 6.7559433
+                        },
+                        "html_instructions": "An der 1. Querstra\u00dfe <b>links</b> abbiegen auf <b>M\u00fcnchener Str.</b>/<wbr/><b>S\u00fcdring</b>/<wbr/><b>B326</b><div style=\"font-size:0.9em\">Weiter auf S\u00fcdring/<wbr/>B326</div>",
+                        "maneuver": "turn-left",
+                        "polyline": {
+                            "points": "qbowHojjh@?J?H?D?D?F?D@H@NNXNVTb@HRHRHTDPBRDTFf@B^BT@T@`@@Z?\\@NAR?ZARAb@A^KlA?BAZAd@QtCGv@?FGfAI`Ba@pJCl@AfAAf@?t@An@Ab@OlBAf@Ct@Ax@ChAE|CCt@EnCExCO~JItE?PIlFC|GA`ACf@"
+                        },
+                        "start_location": {
+                            "lat": 51.2005676,
+                            "lng": 6.775595
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0,8 km",
+                            "value": 764
+                        },
+                        "duration": {
+                            "text": "1 Minute",
+                            "value": 72
+                        },
+                        "end_location": {
+                            "lat": 51.2077087,
+                            "lng": 6.757475200000001
+                        },
+                        "html_instructions": "<b>Rechts</b> abbiegen auf <b>V\u00f6lklinger Str.</b>/<wbr/><b>B1</b>",
+                        "maneuver": "turn-right",
+                        "polyline": {
+                            "points": "ceowHsofh@YXCBMLqGgAaASiB[iB[eAQcB[aBYKC]GkASwEu@M?AAO?i@GYG]OQK"
+                        },
+                        "start_location": {
+                            "lat": 51.20097879999999,
+                            "lng": 6.7559433
+                        },
+                        "travel_mode": "DRIVING"
+                    },
+                    {
+                        "distance": {
+                            "text": "3,0 km",
+                            "value": 2951
+                        },
+                        "duration": {
+                            "text": "4 Minuten",
+                            "value": 212
+                        },
+                        "end_location": {
+                            "lat": 51.232022,
+                            "lng": 6.771751999999999
+                        },
+                        "html_instructions": "<b>Rechts</b> halten und auf <b>V\u00f6lklinger Str.</b>/<wbr/><b>B1</b> bleiben<div style=\"font-size:0.9em\">Weiter auf B1</div><div style=\"font-size:0.9em\">Das Ziel befindet sich auf der linken Seite.</div>",
+                        "maneuver": "keep-right",
+                        "polyline": {
+                            "points": "eopwHgyfh@eC}@yCgAUI[Ia@Km@QkA]UIkAe@o@MiC_AMEGCKEKGAAAAEAKIQOIGCAIKIGIISOCCGEYUq@i@QMYSIEYSWQ}@i@WIi@QA?WIkAWkAUSGSEgBe@c@MMCECGCCAEACCA?CA_@Uu@e@oAkASQCEMMMOKOEGKSIM_BqEe@gAk@mAk@oAs@mAS[_@s@QYEGGKEIKMAAAAAAAAACCCCECCYWYW{@k@MMGCOK[UUMYQEC{@k@EC_@WWQECCAeAk@AACAWOGEw@e@IGa@U_CsAeAm@a@UmBiAUOa@U_@UA?{@i@EC_@S{@a@GCME_@Qc@OICc@Mi@Mk@K_@IOCQEWEIAgAKiAC[A_@@K?kB@Q?qAOi@G[GA?_@IA?IAUECA}Ci@WCw@Ua@Ga@GYGYA}AQo@?"
+                        },
+                        "start_location": {
+                            "lat": 51.2077087,
+                            "lng": 6.757475200000001
+                        },
+                        "travel_mode": "DRIVING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": [
+                    {
+                        "location": {
+                            "lat": 51.4283716,
+                            "lng": 7.528480699999999
+                        },
+                        "step_index": 3,
+                        "step_interpolation": 0.04324033820709729
+                    },
+                    {
+                        "location": {
+                            "lat": 51.2864635,
+                            "lng": 7.1931042
+                        },
+                        "step_index": 6,
+                        "step_interpolation": 0.1615598388224602
+                    },
+                    {
+                        "location": {
+                            "lat": 51.2001718,
+                            "lng": 6.984411499999999
+                        },
+                        "step_index": 6,
+                        "step_interpolation": 0.6414108187950622
+                    }
+                ]
+            }
+        ],
+        "overview_polyline": {
+            "points": "{dkyHm`ql@n@oKDoBRWpAZl@DtAKvDiA~AR|EzDtBv@zHiAhQcEtK}@rF^~IjCtIb@pT`AdEBhE}@rFuDfCoDlC}FtHaWnEwOdCcFtEsFrFaDvGgBlDWxWdAhMIdT_FbQqGfEeA`Gm@jLj@zLfBnEN|Fg@lFiB~R{LzEeBlEq@bL~@|IdCxGdD`DlC`@rAF~JAhDc@lBm@b@o@Ek@o@_@wDQ}XRg]ZoWbBq^fGut@`Igl@nIm\\hO}^~HsQvBmC|BaAfBiBlAgD|@oBfBQjI`HdE`GxDrJ|Jn]xGhMjLtO|Q`VpOnUfLpUjH|QbH`UnGzWlCnN`Gxa@vGfh@hGdf@bFh[dPtj@zEbUtEv\\`C|ObDvN`FhNnEtIpHzJjDbDhJ|FrT~IjWxJpMjGbHlIfDbHtNvf@|^hqAzf@dtAxJ`a@bNlr@jHds@hBpOvD|PfEjKhDzFzKxMfE`GtDrHrCrIpBnJdDvZrAxLjBzJvE|NdL`Y~Ptb@bXnp@~Tnj@bJ~QrJ~MbJzLhDfGxGhPdFvRdEtZ|C|^zF`c@bId`@`EbOtHzT|Mb[hDtI^~HXxDnHhP\\jBGnDgAvQXhIrAvMxHl_@rEt]dJry@nFjY`Lt]nDbO~AbKzAhLzCbOjDtJzGrKvEnEzHbFxFhHxCxIvE|YnClHrCzD|PpM`FdIxCfKtGpe@jBpIrDvJjP|VtF~N|Nzg@vLva@pIzRjLzQvChItAtGbGtg@jG~m@|Ep_@zLft@|Djd@`BjLhDtMlCdKt@`Gr@pTnB`QzCbKxDhGrDvCbIfEvF`ExIbMhDtE|CdCbJnExDjBzCdC`EfHlBjIlCfP`EnJrJnLbFfEpD|B~GjCrPv@xVRxC^pGhCjEdFvH`KxJpFxCvCzCrFlDjMx@nInB`[~A|HnCvGxJhO`EzLjErd@rAfIhFtMhBhCxE`EzKpHvF`GvExHvEnLjFpSrFnU`DzQnAdOPdKJnz@dA~Ut@tH~S`qA|Hzh@tCbZvIjsBfH~`BvBfi@|Bf`@hBrSnMvcA`BjQpApXhCjbAnFxtBbFdmBp@ty@i@f|@i@vcAlAfk@g@zi@Uzv@WrK{@rLyCjTuDtUuAtRaDtdAg@n[`@hSlGrr@d@|NQzB_@`Hb@tLq@dJiEdKuB|BcEbCwJdCcDTkJeB_CQw@b@WdAx@bCx@`EHfEg@`KcBre@y@ri@E~I]`AeJiAuQ_DkJcByXmJiFaEuE{B_JwBuFkEeGqNyCcF}EwDqIiFwR{KuF}AqGa@cIg@uHuAcFc@"
+        },
+        "summary": "A1 und A46",
+        "warnings": [],
+        "waypoint_order": []
+    }
+]

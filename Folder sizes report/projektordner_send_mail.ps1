@@ -1,0 +1,1 @@
+Send-MailMessage -To XXXX@XXXX.local -Subject "Report from $(Get-Date)" -SmtpServer <MAIL-SERVER> -From XXXX@XXXX.local -Attachments C:\XXXX\project_dir_sizes.csv,C:\XXXXX\project_dir_lastmodified.csv,C:\XXXXX\project_dir_same_names_old_new.txt

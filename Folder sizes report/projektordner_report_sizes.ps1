@@ -1,0 +1,1 @@
+﻿C:\XXXX\bin\du64.exe -c -l 1 -q -nobanner "C:\XXXX\" > C:\XXXX\project_dir_sizes.csv
